@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+hello welcome to Ryan Diep's PHIL 20B final project
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+current working idea: circular path of "continues" that will never reach an endpoint
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This is a modification of my original visual/interactive idea. Images/boxes will be replaced with different web pages.
 
+Current thesis: metaphysics is unsolveable
 
-[jekyll-organization]: https://github.com/jekyll
+topics covered: (descartes + spinoza: god) + (leibniz: monads, soul, body, god), (hume: skepticism, empiricism), (kant: a priori metaphysics, spacetime)
+
+plan: descartes, spinoza, leibniz lead to endless loop, hume leads to 404, kant (?)
+
+I agree most with hume's stance on metaphysics...
