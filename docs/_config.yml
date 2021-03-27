@@ -23,8 +23,8 @@ email: ryan.m.diep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ryan Diep's PHIL 20B Project
   "What is the Universe?"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/phil20b-project/" # the subpath of your site, e.g. /blog
+url: "http://kuraian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kuraianlol
 github_username:  kuraian
 
