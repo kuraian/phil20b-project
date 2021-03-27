@@ -18,4 +18,4 @@ If you have followed the link, you would see that it brought you to the beginnin
 
 In defense of this claim, let us examine Leibniz's statement that God, in his holiness, must have created this world in its best possible form. A common argument by Atheists is that evil may not coexist with God, therefore God is not real because He has created a world rife with evil. A common counterargument is that good and evil scale infinitely and may not be measured by humans, similarly to how one could count numbers infinitely in either direction. Therefore, God created this world with a level of evil approaching nil. This argument could go on eternally; yet one thing can be drawn from this argument. If it is agreed that infinity is beyond the realm of humans, and that it is instead the domain of Gods and higher beings, then we shall remain eternally clueless regarding such concepts.
 
-Let us return to analyze the idea of an a priori concept [here.](https://kuraian.github.io/phil20b-project/fundamentals)
+Let us return to analyze the idea of an a priori concept [here.](https://kuraian.github.io/phil20b-project/fundamentals/)
