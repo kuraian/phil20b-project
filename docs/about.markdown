@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /phil20b-project/about/
+permalink: /about/
 ---
 
 hello welcome to Ryan Diep's PHIL 20B final project
