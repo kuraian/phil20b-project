@@ -13,8 +13,7 @@ This is a modification of my original visual/interactive idea. Images/boxes will
 Thesis: Metaphysics is *unsolveable*
 
 -topics covered: 
-	-Descartes + Spinoza: God
-	-Leibniz: Monads, soul, body, God
+	-Descartes + Spinoza + Leibniz: God
 	-Hume: skepticism, empiricism
 	-Kant: a priori metaphysics, spacetime
 
