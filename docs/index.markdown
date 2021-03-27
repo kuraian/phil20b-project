@@ -1,6 +1,6 @@
 ---
 layout: home
-title: the beginning
+title: The Beginning
 ---
 #greetings
 hello welcome to Ryan Diep's PHIL 20B final project

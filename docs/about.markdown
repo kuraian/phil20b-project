@@ -4,16 +4,18 @@ title: About
 permalink: /about/
 ---
 
-hello welcome to Ryan Diep's PHIL 20B final project
+Hello and welcome to Ryan Diep's PHIL 20B final project.
 
-current working idea: circular path of "continues" that will never reach an endpoint
+The goal of this project is to provide a compelling argument, using readings from the coursework, as to why metaphysics is unsolveable by humans.
 
 This is a modification of my original visual/interactive idea. Images/boxes will be replaced with different web pages.
 
-Current thesis: metaphysics is unsolveable
+Thesis: Metaphysics is *unsolveable*
 
-topics covered: (descartes + spinoza: god) + (leibniz: monads, soul, body, god), (hume: skepticism, empiricism), (kant: a priori metaphysics, spacetime)
+-topics covered: 
+	-Descartes + Spinoza: God
+	-Leibniz: Monads, soul, body, God
+	-Hume: skepticism, empiricism
+	-Kant: a priori metaphysics, spacetime
 
 plan: descartes, spinoza, leibniz lead to endless loop, hume leads to 404, kant (?)
-
-I agree most with hume's stance on metaphysics...
