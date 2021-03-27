@@ -1,6 +1,8 @@
+---
 layout: page 
 title: "Home" 
 permalink: /Home/
+---
 
 hello welcome to Ryan Diep's PHIL 20B final project... this is a wip, I'm learning how to use jekyll and github pages
 
