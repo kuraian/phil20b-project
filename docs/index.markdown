@@ -4,5 +4,6 @@
 
 layout: page
 title: the beginning
+permalink: /phil20b-project/
 ---
 
