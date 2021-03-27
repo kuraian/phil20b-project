@@ -12,9 +12,9 @@ This is a modification of my original visual/interactive idea. Images/boxes will
 
 Thesis: Metaphysics is *unsolveable*
 
--topics covered: 
-	-Descartes + Spinoza + Leibniz: God
-	-Hume: skepticism, empiricism
-	-Kant: a priori metaphysics, spacetime
+if you're reading this you're either my professor or searched my username up on google.
+have a nice day either way
 
-plan: descartes, spinoza, leibniz lead to endless loop, hume leads to 404, kant (?)
+this was my tutorial project for learning how to use gitbash, jekyll, and work with ruby gems
+
+perhaps it is too pessimistic to believe that the universe is beyond humanity, so alternative thesis here: humans have potential to overcome their scope of understanding but will die out aeons before science reaches that point.
