@@ -12,7 +12,7 @@ Do you believe in God? Of all the answers towards the subject of metaphysics, pe
 
 Of the religious foundationalist philosophers, perhaps the best known line is this. I agree in that we may take ourselves as a priori, and thus posit concepts such as space and time as Kant has. To take oneself as a foundation is surely sound, and perhaps may be the only concept that we may understand a priori. In fact, I will double down on that statement: the only concept I acknowledge to be understood as a priori is oneself. If one does not consider oneself in such a manner, then it invalidates all knowledge gained a posteriori. That being said, let us return to the original question. Do you believe in God?
 
-If you do, continue [here](https://kuraian.github.io/phil20b-project/)
+If you do, continue [here.](https://kuraian.github.io/phil20b-project/)
 
 If you have followed the link, you would see that it brought you to the beginning. Just like any argument that has God as its basis, everything will return to the beginning: God. There is no logical basis for one to claim the existence of God. Conversely, there is also no logical basis for one to deny the existence of God. With this point, I mean to say that I neither acknowldge nor deny a God; if such a God exists then They must exist outside of our realm of perception. 
 
